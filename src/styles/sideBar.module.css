@@ -1,0 +1,36 @@
+.container {
+	background-color: #fff;
+	width: 45.4rem;
+	/* height: 100vh; */
+	/* border: 1px solid; */
+	/* padding: 3rem; */
+	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+	border-radius: 3rem;
+	margin: 5rem 1rem;
+}
+
+.blueBackground {
+	background-color: #f9fafe;
+	border-radius: 0 0 3rem 3rem;
+	padding: 3rem;
+}
+.progress {
+	width: 100%;
+	/* display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap: 1rem;
+	justify-content: space-between;
+	justify-content: center;
+	/* justify-items: center; */
+	display: flex;
+	/* justify-content: center; */
+}
+
+.title {
+	font-size: 2rem;
+	/* margin-left: 1rem; */
+}
+
+.trainers {
+	padding: 0 3rem;
+}
